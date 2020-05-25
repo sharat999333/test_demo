@@ -1,0 +1,65 @@
+/* h2 {
+     color: purple
+ }
+ 
+ .boxmodel {
+     border: 5px solid red;
+     display: inline-block;
+     padding: 5px 20px 5px 20px;
+     margin: 10px 20px 10px 20px;
+     width: 25px;
+     height: 20px; 
+
+we use width and height to change the content of box model 
+
+
+}*/
+
+
+/* body {
+    margin: 0px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-bottom: 2px solid palegreen;
+    border-right: 2px solid palegreen;
+    width: 400px;
+    text-align: center;
+    box-shadow: 4px 4px 5px palegreen;
+}
+
+img {
+    width: 450px;
+    height: 300px;
+    margin: 10px;
+    transition: all 1s;
+}
+
+img:hover {
+    transform: scale(1.1);
+} 
+i am using bootstrap examples in further section , last section in based on css only .in this section which is linked with exbootstrap.html is fully changing bootstrap with css and using it with the css and js files.*/
+
+.btn-danger {
+    background-color: orange;
+}
+
+.btn-danger:hover {
+    background-color: black;
+}
+
+
+/* 
+so similarly we can change the colors in bootstrap with css nothing but customization. */
+
+.col {
+    background-color: burlywood;
+    border: 2px solid brown;
+}
